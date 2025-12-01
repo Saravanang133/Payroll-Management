@@ -1,0 +1,9 @@
+MDIForm1 = 0, 0, 0, 0, C, 26, 26, 1121, 528, C
+Login = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DepartmentMaster = 156, 156, 1251, 658, , 78, 78, 1173, 580, C
+EmployeeMaster = 104, 104, 1199, 606, C, 52, 52, 1147, 554, C
+LeaveMaster = 208, 208, 1303, 710, , 182, 182, 1277, 684, C
+emp_module = 0, 0, 0, 0, C
+SalaryDetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DataReport1 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DataReport2 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
