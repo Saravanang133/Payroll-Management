@@ -20,4 +20,4 @@ This is a *Payroll Management System* developed using *Visual Basic 6.0* and *MS
 2. Download this repository.
 3. Open the emp.vbp file.
 4. Run the project to access the login and payroll modules.
-5.
+
